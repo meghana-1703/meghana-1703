@@ -90,7 +90,7 @@ Android Developer • Data Science Graduate • AI & Machine Learning Enthusiast
 www.linkedin.com/in/muduthanapally-meghana-77baa7287
 
 📧 Email:
-YOUR_EMAIL
+m.meghana1225@gmail.com
 
 🐙 GitHub:
 https://github.com/meghana-1703
