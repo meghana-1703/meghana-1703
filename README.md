@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meghana</h1>
 
 <h3 align="center">
-Android Developer • Data Science Graduate • AI & Machine Learning Enthusiast
+Aspiring Software Engineer • Android Developer • AI & Machine Learning Enthusiast
 </h3>
 
 <p align="center">
