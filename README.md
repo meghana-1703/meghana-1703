@@ -6,7 +6,6 @@ Software Engineer | Full Stack Developer | AI & Machine Learning Enthusiast
 
 <p align="center">
 Passionate about building scalable web applications, Android applications, and intelligent solutions using modern technologies.
-
 I enjoy working with React, Python, Machine Learning, and backend technologies to transform ideas into real-world applications.
 </p>
 
@@ -119,7 +118,8 @@ www.linkedin.com/in/muduthanapally-meghana-77baa7287
 
 m.meghana1225@gmail.com
 
-🚀 Explore my projects and portfolio:
+🚀 Explore my projects and portfolio
+
 https://meghana-portfolio-virid.vercel.app
 
 ---
