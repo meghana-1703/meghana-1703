@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Meghana</h1>
 
 <h3 align="center">
-Aspiring Software Engineer • Android Developer • AI & Machine Learning Enthusiast
+Software Engineer | Full Stack Developer | AI & Machine Learning Enthusiast
 </h3>
 
 <p align="center">
-Passionate about building Android applications, Machine Learning solutions, and AI-powered projects.
+Passionate about building scalable web applications, Android applications, and intelligent solutions using modern technologies.
+
+I enjoy working with React, Python, Machine Learning, and backend technologies to transform ideas into real-world applications.
 </p>
 
 ---
@@ -116,6 +118,9 @@ www.linkedin.com/in/muduthanapally-meghana-77baa7287
 📧 Email
 
 m.meghana1225@gmail.com
+
+🚀 Explore my projects and portfolio:
+https://meghana-portfolio-virid.vercel.app
 
 ---
 
